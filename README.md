@@ -1,6 +1,6 @@
 📊 Manufacturing Analytics Dashboard
-📌 Overview
 
+📌 Overview
 The Manufacturing Analytics Dashboard is designed to provide actionable insights into production performance, quality metrics, and operational efficiency. It enables stakeholders to monitor key KPIs, identify bottlenecks, and make data-driven decisions.
 
 
